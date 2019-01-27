@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Homework Assignment #1: Data Types
+ * Homework Assignment #2: Variables and Constants
  * Student: Artur Czajka
  * What are differences between var, let & const? What is hoisting?
  ******************************************************************************/
